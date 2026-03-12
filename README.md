@@ -1,11 +1,13 @@
 ## About
 
-This repository is used by Cybersecurity operations teams at the 
-University of Illinois as a GitHub template.
+This repository provides the Cookie Notice banner used by the University of Illinois.
 
-This resource helps comply with University of Illinois
-Cybersecurity standards - including [IT-07][it07], [IT08][it08],
-and [IT13][it13].
+This notice solution complies with University of Illinois expectations for 
+accessibility, branding, and security.
+
+This resource can help web hosting teams on campus comply with 
+University of Illinois Cybersecurity standards
+- including [IT-07][it07], [IT08][it08], and [IT13][it13].
 
 [it07]: https://go.illinois.edu/secstd-IT07
 [it08]: https://go.illinois.edu/secstd-IT08
@@ -15,8 +17,6 @@ See [Cybersecurity Development on the Illinois Knowledge Base][kbsearch]
 for information about our development standards. 
 
 [kbsearch]: https://answers.uillinois.edu/illinois/search.php?q=cybersecurity+developer&cat=0
-
-The remainder of this `README.md` contains example text.
 
 ## Data Sources
 
